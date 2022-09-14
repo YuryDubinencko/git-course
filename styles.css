@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+  }
+
+  p {
+    color: green;
+  }
+
+  .special {
+    color: orange;
+    font-weight: bold;
+  }
+
+  a:link {
+    color: rgb(236, 119, 164);
+}
+
+a:visited {
+    color: rgb(120, 19, 235);
+}
+
+a:hover {
+    text-decoration: none;
+}
+    
